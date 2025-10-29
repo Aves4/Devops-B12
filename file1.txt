@@ -1,1 +1,2 @@
 This is first file and first message
+This is second line of the file
