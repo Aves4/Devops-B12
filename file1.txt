@@ -1,2 +1,2 @@
-This is first file and first message
+This is first file and first message and more... 
 This is second line of the file
